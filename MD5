@@ -1,0 +1,17 @@
+6758a104d485f27157d68b61a51833c3 *DESCRIPTION
+393d1ea07989657a820e131120033478 *NAMESPACE
+04f2623b99ea354a72243859ce953982 *R/plot_rhcoclust.R
+8a704cda94730aedaafc7e1631a26ec6 *R/rhcoclust.R
+e37fec568f58508b9896f342ba4aa5be *R/rhcoclust_internet.R
+3b323f5b8d4838ff64d402e8dd1aed24 *R/rhcoclust_network.R
+2e38dc268fab21a1d907f98464ea78dd *R/simulate_data.R
+4161bcd4f71d59930511ea50affecefd *README.md
+0cee988f5e4613b26783c6dfdf079fc8 *data/simu_data.rda
+1d5617755c5f904f059c92045551b738 *data/toxygates_data.rda
+d93c99ff09b558c4922009473a75cf20 *man/plot_rhcoclust.Rd
+1feeb92be5f6051d8b081290db09551f *man/rhcoclust.Rd
+b8d711e39aa518658dff8db1b8c6392e *man/rhcoclust_internet.Rd
+21b80a7ac65b33ed976cd1bc22924645 *man/rhcoclust_network.Rd
+760d485ee063ea669316916815e4c374 *man/simu_data.Rd
+70a0fe9b63f98cec0058a1f5bfd2cd85 *man/simulate_data.Rd
+bdf0832acc4079b1b32eae10a55b8df9 *man/toxygates_data.Rd
