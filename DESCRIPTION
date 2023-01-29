@@ -1,7 +1,7 @@
 Package: rhcoclust
 Title: Robust Hierarchical Co-Clustering to Identify Significant
         Co-Cluster
-Version: 1.1.0
+Version: 2.0.0
 Authors@R: 
   c(person("Md. Bahadur",
            "Badsha",
@@ -18,16 +18,16 @@ Description: Here we performs robust hierarchical co-clustering between row and 
              important samples and their regulatory significant features. Please see Hasan, Badsha and Mollah (2020) 
              <doi:10.1101/2020.05.13.094946>.
 License: GPL (>= 2)
-Depends: R (>= 3.0.0)
+Depends: R (>= 3.5.0)
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
 Imports: fields, grDevices, graphics, igraph, stats
-RoxygenNote: 7.1.0
-Packaged: 2021-02-26 03:19:52 UTC; mdbadsha
+RoxygenNote: 7.1.1
+Packaged: 2023-01-28 03:48:19 UTC; mdbadsha
 Author: Md. Bahadur Badsha [aut, cre],
   Mohammad Nazmol Hasan [aut],
   Md. Nurul Haque Mollah [aut]
 Maintainer: Md. Bahadur Badsha <mbbadshar@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-02-26 10:10:05 UTC
+Date/Publication: 2023-01-29 03:40:02 UTC

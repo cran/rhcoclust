@@ -1,9 +1,10 @@
-\name{toxygates_data}
-\alias{toxygates_data}
-
+\name{FCGE_Data_PPARs}
+\alias{FCGE_Data_PPARs}
+\docType{data}
 \title{
-A real dataset for 'rhcoclust' package
+A real PPAR signaling pathways (PPAR-SP) dataset for 'rhcoclust' package
 }
+
 \description{
 This is the real data matrix that used as an example in 'rhcoclust' package.
 }
@@ -11,7 +12,6 @@ This is the real data matrix that used as an example in 'rhcoclust' package.
 \details{
 The real data matrix collected from Nyström-Persson et al., 2013 (https://toxygates.nibiohn.go.jp/toxygates/#columns).The column of the data matrix represents doses of chemical compounds (DCCs) and row represents genes. Each element in the dataset represents fold change gene expression data.
 }
-
 \value{
 Matrix
 }
@@ -27,6 +27,5 @@ Md. Bahadur Badsha <mbbadshar@gmail.com>
 library(rhcoclust)
 
 # Load real data
-data("toxygates_data")
+data("FCGE_Data_PPARs")
 }
-
